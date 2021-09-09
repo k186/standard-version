@@ -49,6 +49,7 @@
     "find-up": "^5.0.0",
     "fs-access": "^1.0.1",
     "git-semver-tags": "^4.0.0",
+    "marked": "^3.0.3",
     "semver": "^7.1.1",
     "stringify-package": "^1.0.1",
     "yargs": "^16.0.0"
